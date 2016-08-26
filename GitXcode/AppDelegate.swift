@@ -5,6 +5,7 @@
 //  Created by Chris Kong on 8/26/16.
 //  Copyright © 2016 Chris Kong. All rights reserved.
 //
+// https://www.youtube.com/watch?v=9jeQQ7xNb4U
 
 import UIKit
 
@@ -12,7 +13,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
