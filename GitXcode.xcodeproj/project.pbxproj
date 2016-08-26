@@ -56,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				7A26E1121D6FE17800FD4F5A /* ViewController.swift */,
+				7A26E1231D6FE42A00FD4F5A /* MapViewController.swift */,
 				7A26E1141D6FE17800FD4F5A /* Main.storyboard */,
 				7A26E1221D6FE1A000FD4F5A /* Supporting Files */,
 			);
@@ -147,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A26E1131D6FE17800FD4F5A /* ViewController.swift in Sources */,
+				7A26E1241D6FE42A00FD4F5A /* MapViewController.swift in Sources */,
 				7A26E1111D6FE17800FD4F5A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
